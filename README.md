@@ -1,2 +1,3 @@
-# TraxXture
-TraxXture is a tracker with interior capture of vehicle remotely
+#TaxXture
+A tracker device with hideos and remote interior vehicle capturing
+
