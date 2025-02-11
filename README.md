@@ -1,11 +1,11 @@
 # 🚀 TaxXture – The Tracker with Capturing Features
-A tracker device with **remote interior capturing**
+A tracking device with **remote interior capturing capabilty**
 
 ## 🔥 Features  
 - **Real-time location tracking** – Get your vehicle’s location on demand  
 - **Motion sensing & speed monitoring** – Know when your vehicle is on the move  
 - **Battery Backup and health monitoring** – Keep track of power levels  
-- **Remote interior capturing** – Snap images of your vehicle’s interior when needed  
+- **Remote interior capturing** – Snap image of your vehicle’s interior when needed  
 - **Offline storage** – Data backup, even without an internet connection  
 - **Reverse polarity protection** – To ensure the device does not get affected should incase the vehicle pollarity is mistakenly swapped  
 
@@ -36,5 +36,5 @@ Still some work to do, Below are what I could think of, you can pick it up from 
 
 ## 📷 Main Board Images  
 
-![Main Board](Rendered_images/10-traxXture_render_black.png)
+![Main Board](/Hardware/Rendered_images/12-traxXture_two_render_black.png)
 
