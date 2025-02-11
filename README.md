@@ -38,3 +38,6 @@ Still some work to do, Below are what I could think of, you can pick it up from 
 
 ![Main Board](/Hardware/Rendered_images/12-traxXture_two_render_black.png)
 
+[📄 View Documentation](Hardware/Main-Board/TraxXturE_board.pdf)
+
+
