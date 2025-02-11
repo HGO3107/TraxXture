@@ -1932,8 +1932,8 @@
 		(uuid 7c460a31-6391-4c12-99e2-a4684cf9cef4)
 	)
 	(image
-		(at 74.422 118.364)
-		(scale 0.807911)
+		(at 73.914 125.73)
+		(scale 0.525238)
 		(uuid "d6f44006-9533-482f-8e12-466fc6252f91")
 		(data "iVBORw0KGgoAAAANSUhEUgAAAZsAAAGcCAYAAAAPnQ1AAAAABHNCSVQICAgIfAhkiAAAABl0RVh0"
 			"U29mdHdhcmUAZ25vbWUtc2NyZWVuc2hvdO8Dvz4AAAAmdEVYdENyZWF0aW9uIFRpbWUAVGh1IDA2"
@@ -3756,6 +3756,32 @@
 			)
 		)
 		(uuid "0a24502b-3df9-4498-be58-a3667d093103")
+	)
+	(text "Add the simulation for capacitor\nimpedande characteristics graph"
+		(exclude_from_sim no)
+		(at 44.45 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+				(color 138 138 138 1)
+			)
+			(justify left)
+		)
+		(uuid "67e1ea19-e9ec-46b1-b656-25acb5cf5f3f")
+	)
+	(text "Differential lines are internally \nterminated with 100R resistors"
+		(exclude_from_sim no)
+		(at 12.7 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(italic yes)
+				(color 138 138 138 1)
+			)
+			(justify left)
+		)
+		(uuid "8f105915-98df-4481-8c7e-9d49a6e275cb")
 	)
 	(text "SPI converted to Low voltage differential\nSignal, LVDS to ensure signal intergrity at \nlonger length (3metre)"
 		(exclude_from_sim no)
