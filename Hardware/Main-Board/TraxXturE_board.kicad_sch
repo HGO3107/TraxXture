@@ -10,6 +10,7 @@
 		(company "HGO TECHNOLOGIES")
 		(comment 1 "1.0")
 		(comment 2 "Hassan  Omotoba")
+		(comment 3 "DRAFT")
 	)
 	(lib_symbols
 		(symbol "Graphic:Logo_Open_Hardware_Small"
@@ -251,7 +252,7 @@
 		(uuid bc949421-d3fd-4e7b-8d45-1a4109385c1e)
 	)
 	(image
-		(at 221.234 129.54)
+		(at 221.488 88.9)
 		(scale 0.182963)
 		(uuid "d04a4bc3-b14d-4ade-bc97-649de8f96f47")
 		(data "iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4CAYAAADo08FDAAAANmVYSWZNTQAqAAAAGAAAAEgAAAAB"
@@ -45908,9 +45909,9 @@
 		)
 		(uuid "5d3d2eb3-85a1-4a1d-86a2-c7f9ab171489")
 	)
-	(text "CONTENT"
+	(text "PAGES"
 		(exclude_from_sim no)
-		(at 29.21 38.1 0)
+		(at 24.13 38.1 0)
 		(effects
 			(font
 				(size 4 4)
